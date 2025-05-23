@@ -7,3 +7,5 @@ def sum_two_numbers():
 sum_two_numbers()
 
 print(":)")
+
+print(":)")
