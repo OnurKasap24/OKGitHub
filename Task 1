@@ -1,1 +1,9 @@
-print("Bekir MAl")
+def sum_two_numbers():
+    a = float(input("Enter the first number: "))
+    b = float(input("Enter the second number: "))
+    total = a + b
+    print(f"The sum of {a} and {b} is {total}")
+
+sum_two_numbers()
+
+print(":)")
